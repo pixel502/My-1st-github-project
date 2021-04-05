@@ -2,4 +2,4 @@
 Name=Rakesh Kumar Rana,
 Roll No =1070,
 Div=A,
-Subject=Github.
+Subject=Github practical. 
